@@ -1,13 +1,237 @@
-\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:04)     Journal start - Tue Jul 30 16:50:40 2019
-\t (00:00:04)         Host=USER-PC User=user Pid=17260 CPUs=4
-\t (00:00:04) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\orcad work\1400916\allegro\1400916.brd
-\t (00:00:04) 
-   (00:00:04) Loading axlcore.cxt 
-\t (00:00:07) Opening existing design...
-\d (00:00:07) Design opened: C:/Users/user/Desktop/orcad work/1400916/allegro/1400916.brd
-\i (00:00:07) trapsize 674
-\i (00:00:07) trapsize 689
-\i (00:00:07) trapsize 694
-\i (00:00:07) exit 
-\t (00:00:07)     Journal end - Tue Jul 30 16:50:43 2019
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Tue Jul 30 16:50:47 2019
+\t (00:00:02)         Host=USER-PC User=user Pid=8112 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\orcad work\1400916\allegro\1400916.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: C:/Users/user/Desktop/orcad work/1400916/allegro/1400916.brd
+\i (00:00:05) trapsize 674
+\i (00:00:05) trapsize 689
+\i (00:00:05) trapsize 694
+\i (00:00:05) trapsize 668
+\i (00:00:05) generaledit 
+\i (00:03:15) artwork 
+\i (00:03:17) setwindow form.film_control
+\i (00:03:17) FORM film_control select_all  
+\i (00:03:18) FORM film_control create  
+\e (00:03:18) Dynamic shapes are out of date; please update them to smooth. In the Status dialog, check for out of date shapes by selecting the color button next to the "Out of date shapes".
+\i (00:03:19) fillin confirm
+\i (00:03:22) FORM film_control create  
+\e (00:03:22) Dynamic shapes are out of date; please update them to smooth. In the Status dialog, check for out of date shapes by selecting the color button next to the "Out of date shapes".
+\i (00:03:26) fillin confirm
+\i (00:03:27) FORM film_control cancel  
+\i (00:03:27) setwindow pcb
+\i (00:03:27) generaledit 
+\i (00:03:30) island_delete 
+\i (00:03:31) fillin yes 
+\t (00:03:31) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:03:31) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:03:32) fillin confirm
+\t (00:03:32) No shape islands present on design!
+\i (00:03:32) generaledit 
+\i (00:03:38) status 
+\i (00:03:38) generaledit 
+\i (00:03:40) setwindow form.status
+\i (00:03:40) FORM status fill_update  
+\t (00:03:40) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:03:40) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:03:41) fillin confirm
+\i (00:03:42) FORM status fill_update  
+\t (00:03:42) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:03:42) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:03:43) fillin confirm
+\i (00:03:44) FORM status shape_color 1 
+\i (00:03:46) setwindow pcb
+\i (00:03:46) zoom center 
+\t (00:03:46) Pick center for the new display.
+\i (00:03:46) pick 5.000 5.000 
+\t (00:03:46) last pick:  5.000 5.000
+\i (00:03:46) trapsize 668
+\i (00:03:46) generaledit 
+\i (00:03:48) setwindow text
+\i (00:03:48) close 
+\i (00:03:52) setwindow form.status
+\i (00:03:52) FORM status fill_update  
+\t (00:03:52) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:03:52) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:03:53) fillin confirm
+\i (00:03:53) FORM status shape_color 1 
+\i (00:03:55) setwindow pcb
+\i (00:03:55) zoom center 
+\t (00:03:55) Pick center for the new display.
+\i (00:03:55) pick 5.000 5.000 
+\t (00:03:55) last pick:  5.000 5.000
+\i (00:03:55) trapsize 668
+\i (00:03:55) generaledit 
+\i (00:03:55) zoom center 
+\t (00:03:55) Pick center for the new display.
+\i (00:03:55) pick 5.000 5.000 
+\t (00:03:55) last pick:  5.000 5.000
+\i (00:03:55) trapsize 668
+\i (00:03:55) generaledit 
+\i (00:03:56) pick grid 12.487 -10.421
+\t (00:03:56) last pick:  12.700 -10.160
+\i (00:03:57) zoom in 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom in 12.754 -10.288
+\i (00:03:57) trapsize 334
+\i (00:03:57) zoom in 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom in 12.754 -10.287
+\i (00:03:57) trapsize 167
+\i (00:03:58) zoom center 
+\t (00:03:58) Pick center for the new display.
+\i (00:03:58) pick 5.000 5.000 
+\t (00:03:58) last pick:  5.000 5.000
+\i (00:03:58) trapsize 167
+\i (00:03:58) generaledit 
+\i (00:04:09) setwindow text
+\i (00:04:09) close 
+\i (00:04:11) setwindow form.status
+\i (00:04:11) FORM status fill_update  
+\t (00:04:11) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:04:11) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:04:11) fillin confirm
+\i (00:04:13) FORM status done  
+\i (00:04:16) setwindow pcb
+\i (00:04:16) artwork 
+\i (00:04:17) setwindow form.film_control
+\i (00:04:17) FORM film_control select_all  
+\i (00:04:18) FORM film_control create  
+\e (00:04:18) Dynamic shapes are out of date; please update them to smooth. In the Status dialog, check for out of date shapes by selecting the color button next to the "Out of date shapes".
+\i (00:04:19) fillin confirm
+\i (00:04:19) FORM film_control filmtree 'MULTISEL NO' Design 
+\i (00:04:19) FORM film_control filmtree  Design 
+\i (00:04:20) FORM film_control create  
+\e (00:04:20) Dynamic shapes are out of date; please update them to smooth. In the Status dialog, check for out of date shapes by selecting the color button next to the "Out of date shapes".
+\i (00:04:21) fillin confirm
+\i (00:04:22) FORM film_control cancel  
+\i (00:04:22) setwindow pcb
+\i (00:04:22) generaledit 
+\i (00:04:26) shape add rect 
+\i (00:04:35) setwindow form.mini
+\i (00:04:35) FORM mini class MANUFACTURING 
+\i (00:04:35) FORM mini class PACKAGE GEOMETRY 
+\i (00:04:35) FORM mini class PACKAGE KEEPIN 
+\i (00:04:36) FORM mini class PACKAGE GEOMETRY 
+\i (00:04:37) FORM mini class MANUFACTURING 
+\i (00:04:37) FORM mini class ETCH 
+\i (00:04:40) FORM mini class BOARD GEOMETRY 
+\i (00:04:44) FORM mini class BOUNDARY 
+\t (00:04:44) Cannot add shape on Boundary class.
+\i (00:04:51) FORM mini class ETCH 
+\i (00:04:54) FORM mini dyns_netname_list  
+\i (00:05:01) fillin "menu_cancel"
+\i (00:05:14) setwindow pcb
+\i (00:05:14) artwork 
+\i (00:05:16) setwindow form.film_control
+\i (00:05:16) FORM film_control select_all  
+\i (00:05:17) FORM film_control create  
+\e (00:05:17) Dynamic shapes are out of date; please update them to smooth. In the Status dialog, check for out of date shapes by selecting the color button next to the "Out of date shapes".
+\i (00:05:18) fillin confirm
+\i (00:05:22) FORM film_control database_check NO 
+\i (00:05:22) FORM film_control create  
+\e (00:05:22) Dynamic shapes are out of date; please update them to smooth. In the Status dialog, check for out of date shapes by selecting the color button next to the "Out of date shapes".
+\i (00:05:23) fillin confirm
+\i (00:05:24) FORM film_control ok  
+\i (00:05:24) setwindow pcb
+\i (00:05:24) generaledit 
+\i (00:05:30) island_delete 
+\i (00:05:32) fillin yes 
+\t (00:05:32) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:05:32) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:05:33) fillin confirm
+\t (00:05:33) No shape islands present on design!
+\i (00:05:33) generaledit 
+\i (00:05:34) zoom out 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom out 1.863 12.828
+\i (00:05:34) trapsize 334
+\i (00:05:34) zoom out 1 
+\i (00:05:34) setwindow pcb
+\i (00:05:34) zoom out 1.862 12.829
+\i (00:05:34) trapsize 668
+\i (00:05:35) zoom out 1 
+\i (00:05:35) setwindow pcb
+\i (00:05:35) zoom out 44.665 38.256
+\i (00:05:35) trapsize 1327
+\i (00:05:36) zoom in 1 
+\i (00:05:36) setwindow pcb
+\i (00:05:36) zoom in 0.442 69.204
+\i (00:05:36) trapsize 664
+\i (00:05:40) island_delete 
+\i (00:05:41) fillin yes 
+\t (00:05:41) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:05:41) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:05:43) fillin confirm
+\t (00:05:43) No shape islands present on design!
+\i (00:05:43) generaledit 
+\i (00:05:57) drc update 
+\t (00:05:57) Performing DRC...
+\t (00:05:57) Multithreaded DRC update (4 threads).
+\t (00:05:57) No DRC errors detected.
+\i (00:05:57) generaledit 
+\i (00:06:00) island_delete 
+\i (00:06:02) fillin yes 
+\t (00:06:02) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:06:02) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:06:03) fillin confirm
+\t (00:06:03) No shape islands present on design!
+\i (00:06:03) generaledit 
+\i (00:06:22) island_delete 
+\i (00:06:28) fillin yes 
+\t (00:06:28) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:06:28) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:06:36) fillin confirm
+\t (00:06:36) No shape islands present on design!
+\i (00:06:37) generaledit 
+\i (00:06:39) save 
+\i (00:06:40) fillin yes 
+\i (00:06:40) generaledit 
+\i (00:06:43) status 
+\i (00:06:43) generaledit 
+\i (00:06:44) setwindow form.status
+\i (00:06:44) FORM status fill_update  
+\t (00:06:44) Updating dynamic shape (1 of 1) Gnd, Boundary/Bottom @ (5.000 5.000) ...
+\w (00:06:44) 1 dynamic shape is out of date or empty. In the status dialog, select the color button next to the "Out of date shapes" or run the "Shape Dynamic Status" report to identify them.
+\i (00:06:45) fillin confirm
+\i (00:06:46) FORM status shape_color 1 
+\i (00:06:47) setwindow pcb
+\i (00:06:47) pick grid -13.629 54.867
+\t (00:06:47) last pick:  -13.335 54.610
+\i (00:06:48) zoom in 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom in 33.495 42.257
+\i (00:06:48) trapsize 332
+\i (00:06:48) zoom in 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom in 45.907 42.921
+\i (00:06:48) trapsize 166
+\i (00:06:48) zoom in 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom in 45.974 42.922
+\i (00:06:48) trapsize 83
+\i (00:06:48) zoom in 1 
+\i (00:06:48) setwindow pcb
+\i (00:06:48) zoom in 45.958 42.922
+\i (00:06:48) trapsize 41
+\i (00:06:49) zoom in 1 
+\i (00:06:49) setwindow pcb
+\i (00:06:49) zoom in 45.941 42.930
+\i (00:06:49) trapsize 21
+\i (00:06:49) zoom center 
+\t (00:06:49) Pick center for the new display.
+\i (00:06:49) pick 5.000 5.000 
+\t (00:06:49) last pick:  5.000 5.000
+\i (00:06:49) trapsize 21
+\i (00:06:49) generaledit 
+\i (00:06:51) setwindow text
+\i (00:06:51) close 
+\i (00:06:52) setwindow form.status
+\i (00:06:52) FORM status done  
+\i (00:06:55) setwindow pcb
+\i (00:06:55) exit 
+\e (00:06:55) Do you want to save the changes you made to C:/Users/user/Desktop/orcad work/1400916/allegro/1400916.brd?
+\i (00:06:56) fillin yes 
+\t (00:06:56)     Journal end - Tue Jul 30 16:57:41 2019

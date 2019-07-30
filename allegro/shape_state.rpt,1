@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : 1400916.brd                                   )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 16:54:39 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 2
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+       State: No Etch      Point on shape: (5.000 5.000)  Net: GND
